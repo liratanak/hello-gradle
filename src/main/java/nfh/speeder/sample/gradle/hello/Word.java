@@ -5,6 +5,10 @@ public class Word {
 		return "hello";
 	}
 
+	public CharSequence speeder() {
+		return "Speeder";
+	}
+
 	public CharSequence gradle() {
 		return "gradle";
 	}
