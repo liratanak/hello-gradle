@@ -1,0 +1,4 @@
+apply plugin: 'java'
+apply plugin:'application'
+
+mainClassName = "nfh.speeder.sample.gradle.hello.Main"
